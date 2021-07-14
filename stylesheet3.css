@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(#2704ee,#443246);
+}
+.signup{
+    margin-left: 600px;
+    position: relative;
+    border-radius: 40px;
+    max-width: 350px;
+    min-height: 20px;
+    margin: 150px auto;
+    background:#f1efef;
+    padding: 60px;
+    
+
+}
+#change{
+    border: cornsilk;
+    height: 40px;
+    width: 350px;
+    font-weight: 600;
+    border-radius: 10px;
+    
+    
+    
+}
+
+#signupbtn{
+    color: black;
+    font-weight: 900;
+    width: 200px;
+    background: rgb(96, 235, 115);
+    border-radius: 20px;
+    margin-left: 70px;
+    
+}
+
+
+#confirm{
+    margin-left: 80px;
+}
+
+#signin{
+    color: red;
+}

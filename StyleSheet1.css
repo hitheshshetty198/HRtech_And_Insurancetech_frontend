@@ -1,0 +1,162 @@
+body{
+    background: linear-gradient(#696EFF,#f8acff);
+}
+.help {
+    position: relative;
+    max-width: 100%;
+    min-height: 100%;
+    margin: 85px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+
+}
+
+    .help #left{
+        position: relative;
+        height: 450px;
+        width: 800px;
+        padding: 50px;
+        font-size: 40px;    
+    }
+
+    .help #logo {
+        position: relative;
+        height: 440px;
+        width: 390px;
+    }
+    #mail{
+        border: cornsilk;
+        height: 40px;
+        width: 250px;
+        border-radius: 10px;
+        font-size: 15px;
+
+    }
+    #logmail{
+       
+        
+    }
+    #submit{
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        border-radius: 15%;
+        background-color: red;
+        
+    }
+
+    #free{
+        font-style: oblique;
+        font-size: 12px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    #check{
+        color: teal;
+        font-size: 20px;
+    }
+
+    .payment {
+        position: relative;
+        max-width: 100%;
+        min-height: 100%;
+        margin: 40px;
+        display: grid;
+        grid-template-columns: 1fr 2fr 1fr;
+    
+    }
+    
+        .payment #info{
+            position: relative;
+
+
+            height: 450px;
+            width: 700px;
+            padding: 50px;
+            font-size: 40px;    
+        }
+    
+        .payment #pay {
+            position: relative;
+            height: 500px;
+            width: 300px;
+        }
+        .payment #chart {
+            position: relative;
+            height: 400px;
+            width: 250px;
+        }
+
+        
+        #pay_info{
+            font-size: 20px;
+        }
+
+        #start{
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            border-radius: 100px;
+            background-color: rgb(3, 3, 3);
+            
+        }
+        #sales{
+            color: black;
+            font-size: 15px;
+            font-weight: 600;
+            border-radius: 100px;
+            background-color: white
+            
+        }
+        .help_payment{
+            padding: 90px;
+        }
+
+        #head_info{
+            font-size: 20px;
+            color: blue;
+        }
+        #head{
+            font-size: 30px;
+        }
+        
+           #why_head{
+            font-size: 25px;
+            color: rgb(42, 42, 240);
+            padding: 50px;
+           }
+           
+            .why {
+                position: relative;
+                max-width: 100%;
+                min-height: 100%;
+                padding: 90px;
+            
+            }
+            .why .box{
+                position: relative;
+                width: 250px;
+                height: 250px;
+                background: cornsilk;
+                float: left;
+                margin: 20px;
+                border-radius: 10px;
+                padding: 10px;
+            }
+
+            #shape1{
+                font-size: 30px;
+                color: rgb(4, 247, 4);
+            }
+            #shape2{
+                font-size: 30px;
+                color: rgb(113, 20, 220);
+            }
+            #shape3{
+                font-size: 30px;
+                color: rgb(255, 7, 7);
+            }
+            #shape4{
+                font-size: 30px;
+                color: rgb(245, 78, 0);
+            }
+            
